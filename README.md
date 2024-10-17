@@ -59,6 +59,15 @@
     <img src="https://raw.githubusercontent.com/twisty/awesome-bootstrap-icon/master/icons/bootstrap.svg" alt="Bootstrap" width="40" height="40"/>
 </p>
 
+<h3 align="left">Deployed Projects:</h3>
+<ul>
+    <li><a href="https://whiz-ai.com/" target="_blank">Whiz AI</a></li>
+    <li><a href="https://monaarch.org" target="_blank">Monaarch</a></li>
+    <li><a href="https://agency-app-tau.vercel.app/" target="_blank">Agency App</a></li>
+    <li><a href="https://fiberflow.vercel.app/" target="_blank">FiberFlow</a></li>
+    <li><a href="https://saad-rehman.vercel.app" target="_blank">My Portfolio</a></li>
+</ul>
+
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=saadrehman171000&show_icons=true&locale=en&layout=compact" alt="saadrehman171000" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=saadrehman171000&show_icons=true&locale=en" alt="saadrehman171000" /></p>

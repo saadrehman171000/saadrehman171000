@@ -3,8 +3,10 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=saadrehman171000&label=Profile%20views&color=0e75b6&style=flat" alt="saadrehman171000" /> </p>
 
-<p align="left">
-   ![](https://github-profile-trophy.screw-hand.vercel.app/?username=saadrehman171000&rank=SECRET&wantMultipleOrganizations=true)
+<p align="left"> 
+    <a href="https://github.com/ryo-ma/github-profile-trophy">
+        <img src="https://github-profile-trophy.vercel.app/?username=saadrehman171000&rank=SECRET,SSS,SS,S,A,B,C,D,E,F,G,H,I,J,K,L,M,N,O,P&theme=juicyfresh" alt="saadrehman171000" />
+    </a> 
 </p>
 
 <p align="left"> <a href="https://twitter.com/saad_rehman76" target="blank"><img src="https://img.shields.io/twitter/follow/saad_rehman76?logo=twitter&style=for-the-badge" alt="saad_rehman76" /></a> </p>

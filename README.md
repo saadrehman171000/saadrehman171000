@@ -87,8 +87,28 @@
 </ul>
 
 <h3 align="left">📊 My GitHub Stats:</h3>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=saadrehman171000&show_icons=true&locale=en&layout=compact" alt="saadrehman171000" /></p>
+<p>
+    <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=saadrehman171000&show_icons=true&locale=en&layout=compact" alt="saadrehman171000" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=saadrehman171000&show_icons=true&locale=en" alt="saadrehman171000" />
+</p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=saadrehman171000&show_icons=true&locale=en" alt="saadrehman171000" /></p>
+<p>
+    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=saadrehman171000&" alt="saadrehman171000" />
+</p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=saadrehman171000&" alt="saadrehman171000" /></p>
+<h3 align="left">📅 My Latest Blog Posts:</h3>
+<p> 
+    <a href="https://yourblogsite.com/post1" target="_blank">🚀 Building Responsive Web Applications with React</a><br>
+    <a href="https://yourblogsite.com/post2" target="_blank">📊 Data Visualization Techniques in Python</a><br>
+    <a href="https://yourblogsite.com/post3" target="_blank">💻 A Beginner's Guide to Full Stack Development</a><br>
+</p>
+
+<h3 align="left">💬 Recent Projects:</h3>
+<ul>
+    <li><strong>Project A:</strong> Description of Project A.</li>
+    <li><strong>Project B:</strong> Description of Project B.</li>
+    <li><strong>Project C:</strong> Description of Project C.</li>
+</ul>
+
+<h3 align="left">📞 Let's Chat!</h3>
+<p>I'm always open to discussing new ideas and collaborating on exciting projects. Feel free to reach out!</p>

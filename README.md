@@ -11,15 +11,29 @@
 
 <p align="left"> <a href="https://twitter.com/saad_rehman76" target="blank"><img src="https://img.shields.io/twitter/follow/saad_rehman76?logo=twitter&style=for-the-badge" alt="saad_rehman76" /></a> </p>
 
-- 🔭 I’m currently working on **FiberFlow: Textile PLM Digitalization**
-- 🌱 I’m currently learning **Advanced Artificial Intelligence**
-- 👨‍💻 All of my projects are available at [https://github.com/saadrehman171000](https://github.com/saadrehman171000)
-- 💬 Ask me about **React, Node.js, Next.js or anything**
-- 📫 How to reach me: **saadrehman17100@gmail.com**
-- 📄 Know about my experiences: [Resume](https://drive.google.com/file/d/1iZNNQpyGpEhCPfUzbD6FxSpzdBQKV8yb/view?usp=drive_link)
-- ⚡ Fun fact: **I have a deep love for deciphering ancient languages and exploring the connections between linguistics and coding. When I'm not writing code, you might find me trying to crack codes or learning a new script!**
+- 🔭 I’m currently working on **FiberFlow: Textile PLM Digitalization**, leveraging technology to optimize textile production processes.
+- 🌱 I’m enhancing my skills in **Advanced Artificial Intelligence** to integrate innovative solutions into my projects.
+- 👨‍💻 All of my projects are available at [https://github.com/saadrehman171000](https://github.com/saadrehman171000).
+- 💬 I enjoy discussing topics related to **React, Node.js, Next.js**, and more—let's connect!
+- 📫 Reach out to me at **saadrehman17100@gmail.com**.
+- 📄 Explore my professional journey: [Resume](https://drive.google.com/file/d/1iZNNQpyGpEhCPfUzbD6FxSpzdBQKV8yb/view?usp=drive_link).
+- ⚡ Fun fact: **I have a passion for deciphering ancient languages and connecting linguistics with coding. I enjoy challenges like cracking codes and learning new scripts!**
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">📈 My Skill Set</h3>
+<p align="left">
+    <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white" />
+    <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white" />
+    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" />
+    <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black" />
+    <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white" />
+    <img src="https://img.shields.io/badge/Express.js-404D59?style=flat&logo=express&logoColor=white" />
+    <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white" />
+    <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white" />
+    <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" />
+    <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white" />
+</p>
+
+<h3 align="left">🔗 Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/saad_rehman76" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="saad_rehman76" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/saadrehman17100" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="saadrehman17100" height="30" width="40" /></a>
@@ -31,7 +45,7 @@
 <a href="https://discord.gg/saadrehman76" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="saadrehman76" height="30" width="40" /></a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
+<h3 align="left">🛠 Languages and Tools:</h3>
 <p align="left">
     <img src="https://cdn.worldvectorlogo.com/logos/nextjs-1.svg" alt="Next.js" width="40" height="40"/>
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" width="40" height="40"/>
@@ -63,7 +77,7 @@
     <img src="https://raw.githubusercontent.com/twisty/awesome-bootstrap-icon/master/icons/bootstrap.svg" alt="Bootstrap" width="40" height="40"/>
 </p>
 
-<h3 align="left">Deployed Projects:</h3>
+<h3 align="left">🌐 Deployed Projects:</h3>
 <ul>
     <li><a href="https://whiz-ai.com/" target="_blank">Whiz AI</a></li>
     <li><a href="https://monaarch.org" target="_blank">Monaarch</a></li>
@@ -72,6 +86,7 @@
     <li><a href="https://saad-rehman.vercel.app" target="_blank">My Portfolio</a></li>
 </ul>
 
+<h3 align="left">📊 My GitHub Stats:</h3>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=saadrehman171000&show_icons=true&locale=en&layout=compact" alt="saadrehman171000" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=saadrehman171000&show_icons=true&locale=en" alt="saadrehman171000" /></p>

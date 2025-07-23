@@ -15,7 +15,7 @@
 - 🌱 I’m enhancing my skills in **Advanced Artificial Intelligence** to integrate innovative solutions into my projects.
 - 👨‍💻 All of my projects are available at [https://github.com/saadrehman171000](https://github.com/saadrehman171000).
 - 💬 I enjoy discussing topics related to **React, Node.js, Next.js**, and more—let's connect!
-- 📫 Reach out to me at **saadrehman17100@gmail.com**.
+- 📫 Reach out to me at **saadrehman17100@gmail.com and WhatsApp +923150777326**.
 - 📄 Explore my professional journey: [Resume](https://drive.google.com/file/d/1iZNNQpyGpEhCPfUzbD6FxSpzdBQKV8yb/view?usp=drive_link).
 - ⚡ Fun fact: **I have a passion for deciphering ancient languages and connecting linguistics with coding. I enjoy challenges like cracking codes and learning new scripts!**
 

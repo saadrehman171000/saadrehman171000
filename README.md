@@ -79,11 +79,14 @@
 
 <h3 align="left">🌐 Deployed Projects:</h3>
 <ul>
-    <li><a href="https://whiz-ai.com/" target="_blank">Whiz AI</a></li>
+    <li><a href="https://ai-cfo-assistant.vercel.app/" target="_blank">AI-CFO-Assistan</a></li>
     <li><a href="https://monaarch.org" target="_blank">Monaarch</a></li>
-    <li><a href="https://agency-app-tau.vercel.app/" target="_blank">Agency App</a></li>
+    <li><a href="www.ibcedu.com" target="_blank">IBC Educational Network</a></li>
     <li><a href="https://fiberflow.vercel.app/" target="_blank">FiberFlow</a></li>
     <li><a href="https://saad-rehman.vercel.app" target="_blank">My Portfolio</a></li>
+    <li><a href="https://ai-fashion-platform.vercel.app/" target="_blank">AI Fashion</a></li>
+    <li><a href="https://www.homagepublishers.com/" target="_blank">Homage Publishers</a></li>
+    <li><a href="https://converily.vercel.app/" target="_blank">Converily - Design to Conversion Platform</a></li>
 </ul>
 
 <h3 align="left">📊 My GitHub Stats:</h3>

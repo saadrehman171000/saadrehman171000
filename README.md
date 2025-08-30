@@ -79,7 +79,10 @@
 
 <h3 align="left">🌐 Deployed Projects:</h3>
 <ul>
-    <li><a href="https://ai-cfo-assistant.vercel.app/" target="_blank">AI-CFO-Assistan</a></li>
+    <li><a href="https://spreadfy.ai/" target="_blank">Spreadfy AI</a></li>
+    <li><a href="https://ai-cfo-assistant.vercel.app/" target="_blank">AI-CFO-Assistant</a></li>
+    <li><a href="https://www.goldendoorfund.org/" target="_blank">GoldenDoor Funds</a></li>
+    <li><a href="https://brite-sparx-electric.vercel.app/" target="_blank">Brite Sparx</a></li>
     <li><a href="https://monaarch.org" target="_blank">Monaarch</a></li>
     <li><a href="www.ibcedu.com" target="_blank">IBC Educational Network</a></li>
     <li><a href="https://fiberflow.vercel.app/" target="_blank">FiberFlow</a></li>

@@ -13,41 +13,6 @@
 
 ---
 
-
-
-<!-- Dynamic Tech Stack Matrix -->
-<div align="center">
-  <h3>Tech Stack Matrix</h3>
-  <table>
-    <tr>
-      <td align="center">
-        <strong>Frontend</strong><br/>
-        <img src="https://img.shields.io/badge/React-Expert-blue?style=flat-square" />
-        <img src="https://img.shields.io/badge/Next.js-Expert-blue?style=flat-square" />
-        <img src="https://img.shields.io/badge/TypeScript-Expert-blue?style=flat-square" />
-      </td>
-      <td align="center">
-        <strong>Backend</strong><br/>
-        <img src="https://img.shields.io/badge/Node.js-Expert-blue?style=flat-square" />
-        <img src="https://img.shields.io/badge/Python-Advanced-blue?style=flat-square" />
-        <img src="https://img.shields.io/badge/Java-Advanced-blue?style=flat-square" />
-      </td>
-      <td align="center">
-        <strong>AI/ML</strong><br/>
-        <img src="https://img.shields.io/badge/TensorFlow-Advanced-blue?style=flat-square" />
-        <img src="https://img.shields.io/badge/PyTorch-Advanced-blue?style=flat-square" />
-        <img src="https://img.shields.io/badge/Scikit-Advanced-blue?style=flat-square" />
-      </td>
-    </tr>
-  </table>
-</div>
-
----
-
-
-
----
-
 <div align="center">
   <a href="https://github.com/saadrehman171000">
     <img src="https://komarev.com/ghpvc/?username=saadrehman171000&label=Profile%20views&color=blue&style=flat-square" alt="saadrehman171000" />
@@ -318,8 +283,6 @@
 
 ## Featured Projects
 
-
-
 <!-- Project Timeline with Status Indicators -->
 <div align="center">
   <h3>Project Timeline & Status</h3>
@@ -373,10 +336,6 @@
 
 ### Portfolio
 - [My Portfolio](https://saad-rehman.vercel.app) - Personal showcase of work, skills, and achievements
-
----
-
-
 
 ---
 
@@ -536,8 +495,6 @@
     </a>
     <p><strong>WhatsApp: +923150777326</strong></p>
   </div>
-  
-
   
   <!-- Dynamic Visitor Counter -->
   <div align="center">

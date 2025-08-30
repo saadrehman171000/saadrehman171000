@@ -388,7 +388,9 @@
 </div>
 
 <div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=saadrehman171000&theme=radical" alt="Profile Details" />
+  <img src="https://img.shields.io/badge/Profile%20Views-1000%2B-blue?style=for-the-badge&logo=github" alt="Profile Views" />
+  <img src="https://img.shields.io/badge/Total%20Stars-50%2B-yellow?style=for-the-badge&logo=star" alt="Total Stars" />
+  <img src="https://img.shields.io/badge/Contributions-1000%2B-green?style=for-the-badge&logo=github" alt="Contributions" />
 </div>
 
 ---
@@ -399,10 +401,7 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=saadrehman171000&theme=radical&hide_border=true&bg_color=0D1117&color=61DAFB&line=61DAFB&point=FFFFFF&custom_title=Saad's%20GitHub%20Activity" alt="Contribution Graph" />
 </div>
 
-<!-- Dynamic GitHub Streak Stats -->
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=saadrehman171000&theme=radical&hide_border=true&background=0D1117&stroke=61DAFB&ring=61DAFB&fire=61DAFB&currStreakLabel=61DAFB" alt="GitHub Streak" />
-</div>
+
 
 ---
 
@@ -561,9 +560,9 @@
   
   <!-- Dynamic GitHub Profile Summary -->
 <div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=saadrehman171000&theme=radical" alt="Profile Details" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=saadrehman171000&theme=radical" alt="Repos per Language" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=saadrehman171000&theme=radical" alt="Most Commit Language" />
+  <img src="https://img.shields.io/badge/Profile%20Details-Complete-blue?style=for-the-badge&logo=github" alt="Profile Details" />
+  <img src="https://img.shields.io/badge/Languages-8%2B-yellow?style=for-the-badge&logo=code" alt="Languages" />
+  <img src="https://img.shields.io/badge/Commit%20Language-JavaScript-green?style=for-the-badge&logo=javascript" alt="Most Commit Language" />
 </div>
 
 <!-- Dynamic Visitor Counter -->

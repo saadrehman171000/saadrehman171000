@@ -41,7 +41,7 @@
 
 <!-- Deployed Projects Quick Links -->
 <div align="center">
-  <h3>🚀 Live Projects</h3>
+  <h3>Live Projects</h3>
   <div style="display: flex; justify-content: center; gap: 15px; flex-wrap: wrap; margin: 20px 0;">
     <a href="https://spreadfy.ai/" target="_blank">
       <img src="https://img.shields.io/badge/Spreadfy%20AI-Live%20Platform-blue?style=flat-square&logo=robot" alt="Spreadfy AI" />

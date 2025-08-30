@@ -13,59 +13,9 @@
 
 ---
 
-<!-- New Feature: Tech Radar Chart -->
-<div align="center">
-  <h3>Technology Radar Chart</h3>
-  <div style="display: flex; justify-content: center; align-items: center; gap: 20px; flex-wrap: wrap;">
-    <div style="text-align: center;">
-      <strong>Adopt</strong><br/>
-      <small>React, Node.js, Python</small>
-    </div>
-    <div style="text-align: center;">
-      <strong>Trial</strong><br/>
-      <small>Rust, Go, Kubernetes</small>
-    </div>
-    <div style="text-align: center;">
-      <strong>Assess</strong><br/>
-      <small>WebAssembly, Deno</small>
-    </div>
-    <div style="text-align: center;">
-      <strong>Hold</strong><br/>
-      <small>jQuery, PHP (Legacy)</small>
-    </div>
-  </div>
-</div>
 
----
 
-<!-- Dynamic Tech Stack Matrix -->
-<div align="center">
-  <h3>Tech Stack Matrix</h3>
-  <table>
-    <tr>
-      <td align="center">
-        <strong>Frontend</strong><br/>
-        <img src="https://img.shields.io/badge/React-Expert-61DAFB?style=flat-square" />
-        <img src="https://img.shields.io/badge/Next.js-Expert-000000?style=flat-square" />
-        <img src="https://img.shields.io/badge/TypeScript-Expert-007ACC?style=flat-square" />
-      </td>
-      <td align="center">
-        <strong>Backend</strong><br/>
-        <img src="https://img.shields.io/badge/Node.js-Expert-339933?style=flat-square" />
-        <img src="https://img.shields.io/badge/Python-Advanced-3776AB?style=flat-square" />
-        <img src="https://img.shields.io/badge/Java-Advanced-ED8B00?style=flat-square" />
-      </td>
-      <td align="center">
-        <strong>AI/ML</strong><br/>
-        <img src="https://img.shields.io/badge/TensorFlow-Advanced-FF6F00?style=flat-square" />
-        <img src="https://img.shields.io/badge/PyTorch-Advanced-EE4C2C?style=flat-square" />
-        <img src="https://img.shields.io/badge/Scikit-Advanced-F7931E?style=flat-square" />
-      </td>
-    </tr>
-  </table>
-</div>
 
----
 
 <!-- New Feature: Quick Stats Dashboard -->
 <div align="center">
@@ -103,10 +53,10 @@
     <img src="https://img.shields.io/github/stars/saadrehman171000?style=for-the-badge" alt="GitHub stars" />
   </a>
   <a href="https://github.com/saadrehman171000">
-    <img src="https://img.shields.io/github/repos/saadrehman171000?style=for-the-badge" alt="GitHub repos" />
+    <img src="https://img.shields.io/badge/Repositories-125%2B-blue?style=for-the-badge&logo=github" alt="GitHub repos" />
   </a>
   <a href="https://github.com/saadrehman171000">
-    <img src="https://img.shields.io/github/commit-activity/t/saadrehman171000?style=for-the-badge" alt="Commit Activity" />
+    <img src="https://img.shields.io/badge/Commit%20Activity-Active-brightgreen?style=for-the-badge" alt="Commit Activity" />
   </a>
 </div>
 
@@ -115,8 +65,30 @@
 <!-- Fixed GitHub Trophy with Better Theme for Text Visibility -->
 <div align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=saadrehman171000&rank=SECRET,SSS,SS,S,A,B,C,D,E,F,G,H,I,J,K,L,M,N,O,P&theme=darkhub&no-frame=true&no-bg=true&margin-w=4" alt="saadrehman171000" />
+    <img src="https://github-profile-trophy.vercel.app/?username=saadrehman171000&rank=SECRET,SSS,SS,S,A,B,C,D,E,F,G,H,I,J,K,L,M,N,O,P&theme=juicyfresh&no-frame=true&no-bg=true&margin-w=4" alt="saadrehman171000" />
   </a> 
+</div>
+
+<!-- Deployed Projects Quick Links -->
+<div align="center">
+  <h3>🚀 Live Projects</h3>
+  <div style="display: flex; justify-content: center; gap: 15px; flex-wrap: wrap; margin: 20px 0;">
+    <a href="https://spreadfy.ai/" target="_blank">
+      <img src="https://img.shields.io/badge/Spreadfy%20AI-Live%20Platform-blue?style=for-the-badge&logo=robot" alt="Spreadfy AI" />
+    </a>
+    <a href="https://ai-cfo-assistant.vercel.app/" target="_blank">
+      <img src="https://img.shields.io/badge/AI%20CFO%20Assistant-Live%20App-green?style=for-the-badge&logo=chart-line" alt="AI CFO Assistant" />
+    </a>
+    <a href="https://fiberflow.vercel.app/" target="_blank">
+      <img src="https://img.shields.io/badge/FiberFlow-Development-orange?style=for-the-badge&logo=shopping-cart" alt="FiberFlow" />
+    </a>
+    <a href="https://converily.vercel.app/" target="_blank">
+      <img src="https://img.shields.io/badge/Converily-Live%20Platform-purple?style=for-the-badge&logo=paint-brush" alt="Converily" />
+    </a>
+    <a href="https://monaarch.org" target="_blank">
+      <img src="https://img.shields.io/badge/Monaarch-Live%20Platform-red?style=for-the-badge&logo=music" alt="Monaarch" />
+    </a>
+  </div>
 </div>
 
 ---
@@ -159,6 +131,12 @@
   <h3>Professional Summary</h3>
   <p><strong>5+ Years</strong> of experience building enterprise-grade applications with AI/ML integration</p>
   <p><strong>Specialized in:</strong> RAG systems, Computer Vision, Workflow Automation, and Scalable Web Solutions</p>
+  
+  <!-- Current Work Status -->
+  <div style="margin-top: 20px;">
+    <img src="https://img.shields.io/badge/Current%20Role-AI%20Engineer%20at%20Softevate-blue?style=for-the-badge&logo=robot" alt="AI Engineer at Softevate" />
+    <img src="https://img.shields.io/badge/Founder-BrainDev-purple?style=for-the-badge&logo=lightbulb" alt="Founder of BrainDev" />
+  </div>
 </div>
 
 - **Currently Working On:** **FiberFlow** - E-commerce platform with YOLOv8-powered fabric defect detection using computer vision

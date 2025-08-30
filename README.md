@@ -41,7 +41,7 @@
 
 <!-- Deployed Projects Quick Links -->
 <div align="center">
-  <h3>Live Projects</h3>
+  <h3>🚀 Live Projects</h3>
   <div style="display: flex; justify-content: center; gap: 15px; flex-wrap: wrap; margin: 20px 0;">
     <a href="https://spreadfy.ai/" target="_blank">
       <img src="https://img.shields.io/badge/Spreadfy%20AI-Live%20Platform-blue?style=flat-square&logo=robot" alt="Spreadfy AI" />
@@ -343,6 +343,14 @@
 
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=saadrehman171000&theme=dark&hide_border=true&custom_title=Saad's%20GitHub%20Activity&bg_color=0D1117&color=00FF00&line=00FF00&point=FFFFFF" alt="Contribution Graph" />
+</div>
+
+---
+
+## GitHub Streak Stats
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=saadrehman171000&theme=dark&hide_border=true&background=0D1117&stroke=007ACC&ring=007ACC&fire=FF6B35&currStreakNum=007ACC&currStreakLabel=007ACC&sideNums=007ACC&sideLabels=007ACC&dates=007ACC" alt="GitHub Streak Stats" />
 </div>
 
 ---

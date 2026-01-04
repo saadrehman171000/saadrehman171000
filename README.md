@@ -67,12 +67,6 @@
 
 These are real-world, production-grade systems that represent my strongest work across SaaS, AI, fintech UI, and client platforms.
 
-- FiberFlow – E-commerce platform with YOLOv8-powered fabric defect detection using computer vision
-  🌐 `https://fiberflow.vercel.app/`
-
-- Monaarch – Music production platform for singers with chord splitting, mastering, and vocal processing capabilities
-  🌐 `https://monaarch.org`
-
 - Arbitrage Leads – SaaS platform for arbitrage and lead management with admin dashboards, Stripe subscriptions, Google Sheets integration, and role-based access
   🌐 `https://www.arbitrage-leads.com/`
 

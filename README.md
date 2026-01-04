@@ -49,14 +49,14 @@
     <a href="https://ai-cfo-assistant.vercel.app/" target="_blank">
       <img src="https://img.shields.io/badge/AI%20CFO%20Assistant-Live%20App-blue?style=flat-square&logo=chart-line" alt="AI CFO Assistant" />
     </a>
-    <a href="https://fiberflow.vercel.app/" target="_blank">
-      <img src="https://img.shields.io/badge/FiberFlow-Development-blue?style=flat-square&logo=shopping-cart" alt="FiberFlow" />
+    <a href="https://www.freshfoldexpress.com/" target="_blank">
+      <img src="https://img.shields.io/badge/Fresh%20Fold-Live%20Service-blue?style=flat-square&logo=truck" alt="Fresh Fold Express" />
     </a>
     <a href="https://converily.vercel.app/" target="_blank">
       <img src="https://img.shields.io/badge/Converily-Live%20Platform-blue?style=flat-square&logo=paint-brush" alt="Converily" />
     </a>
-    <a href="https://monaarch.org" target="_blank">
-      <img src="https://img.shields.io/badge/Monaarch-Live%20Platform-blue?style=flat-square&logo=music" alt="Monaarch" />
+    <a href="https://www.arbitrage-leads.com/" target="_blank">
+      <img src="https://img.shields.io/badge/Arbitrage%20Leads-SaaS%20Platform-blue?style=flat-square&logo=briefcase" alt="Arbitrage Leads" />
     </a>
   </div>
 </div>

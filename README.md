@@ -63,6 +63,37 @@
 
 ---
 
+## ⭐ Featured Production Projects (Top Repositories)
+
+These are real-world, production-grade systems that represent my strongest work across SaaS, AI, fintech UI, and client platforms.
+
+- FiberFlow – E-commerce platform with YOLOv8-powered fabric defect detection using computer vision
+  🌐 `https://fiberflow.vercel.app/`
+
+- Monaarch – Music production platform for singers with chord splitting, mastering, and vocal processing capabilities
+  🌐 `https://monaarch.org`
+
+- Arbitrage Leads – SaaS platform for arbitrage and lead management with admin dashboards, Stripe subscriptions, Google Sheets integration, and role-based access
+  🌐 `https://www.arbitrage-leads.com/`
+
+- Prime World Markets – Fintech product UI for a multi-asset trading platform with AI-driven positioning and global market focus
+  🌐 `https://www.primeworldmarkets.com/`
+
+- Fresh Fold Express – Laundry pickup and delivery platform for a real local business, including booking flows and production deployment
+  
+  This platform allows customers to schedule laundry pickup and delivery, select services and quantities, view pricing, place orders, and track order status.
+  It supports real customer workflows including service selection, bag-based pricing, order confirmation, and production deployment for a live business.
+  
+  🌐 `https://www.freshfoldexpress.com/`
+
+- Nevis Music Academy – Large-scale SaaS learning platform with Student, Teacher, and Admin portals, Stripe billing, RBAC, analytics, and sprint-based delivery
+  🌐 `https://nevis-music-academy.vercel.app/`
+
+- Qualify AI – AI-powered lead qualification and campaign processing system with Google Trends, Salesforce integration, Stripe plans, and admin APIs
+  🌐 `https://qualify-ai.vercel.app/`
+
+---
+
 ## About Me
 
 <!-- Enhanced About Me Section with Innovation Metrics -->

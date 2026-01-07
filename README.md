@@ -33,7 +33,7 @@
 <!-- Fixed GitHub Trophy with Dark Background for Better Visibility -->
 <div align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=saadrehman171000&theme=dark&no-frame=true&no-bg=true" alt="GitHub Trophies" />
+    <img src="https://github-readme-stats.vercel.app/api?username=saadrehman171000&show_icons=true&theme=dark&count_private=true&hide_border=true&include_all_commits=true&trophies=true" alt="GitHub Trophies" />
   </a> 
 </div>
 

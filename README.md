@@ -33,7 +33,7 @@
 <!-- Fixed GitHub Trophy with Dark Background for Better Visibility -->
 <div align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=saadrehman171000&rank=SECRET,SSS,SS,S,A,B,C,D,E,F,G,H,I,J,K,L,M,N,O,P&theme=darkhub&no-frame=true&no-bg=false&margin-w=4" alt="saadrehman171000" />
+    <img src="https://github-profile-trophy.vercel.app/?username=saadrehman171000&theme=dark&no-frame=true&no-bg=true" alt="GitHub Trophies" />
   </a> 
 </div>
 

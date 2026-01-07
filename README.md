@@ -30,15 +30,16 @@
 
 ---
 
-<!-- GitHub Trophy Section -->
+<!-- GitHub Trophy Section with More Trophies -->
 <div align="center">
   <a href="https://github.com/screw-hand/github-profile-trophy">
     <img
-      src="https://github-profile-trophy.screw-hand.vercel.app/?username=saadrehman171000&theme=dracula&row=1&column=7&no-frame=true&no-bg=true"
+      src="https://github-profile-trophy.screw-hand.vercel.app/?username=saadrehman171000&theme=dracula&row=2&column=7&no-frame=true&no-bg=true"
       alt="GitHub Trophies"
     />
   </a>
 </div>
+
 
 
 ---

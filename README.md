@@ -291,13 +291,6 @@ These are real-world, production-grade systems that represent my strongest work 
 
 </div>
 
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=saadrehman171000&layout=compact&hide_border=true" />
-</div>
-
-
-
 ### Advanced Computer Science Skills
 <div align="center">
   <img src="https://img.shields.io/badge/Automation-91%25-blue?style=flat-square&logo=robot&logoColor=white" alt="Automation" />

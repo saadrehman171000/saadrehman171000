@@ -279,10 +279,10 @@ These are real-world, production-grade systems that represent my strongest work 
   <img src="https://img.shields.io/badge/Rust-95%25-blue?style=flat-square" alt="Rust" />
 </div>
 
-<!-- Dynamic GitHub Language Stats -->
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=saadrehman171000&layout=compact&theme=default&hide_border=true&langs_count=8" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=saadrehman171000&layout=compact&hide_border=true&langs_count=8" />
 </div>
+
 
 ### Advanced Computer Science Skills
 <div align="center">

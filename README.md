@@ -134,7 +134,10 @@ These are real-world, production-grade systems that represent my strongest work 
   <!-- Current Work Status -->
   <div style="margin-top: 20px;">
     <img src="https://img.shields.io/badge/Current%20Role-AI%20Engineer%20at%20Softevate-blue?style=flat-square" alt="AI Engineer at Softevate" />
-    <img src="https://img.shields.io/badge/Founder-BrainDev-blue?style=flat-square" alt="Founder of BrainDev" />
+  <a href="https://olyntic.vercel.app/" target="_blank">
+  <img src="https://img.shields.io/badge/Founder-Olyntic-blue?style=flat-square" alt="Founder of Olyntic" />
+</a>
+
   </div>
 </div>
 

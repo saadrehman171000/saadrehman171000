@@ -336,10 +336,17 @@ These are real-world, production-grade systems that represent my strongest work 
 </div>
 
 ### AI & Innovation Projects
+
 - [Spreadfy AI](https://spreadfy.ai/) - Advanced AI-powered conversational platform for content generation, image/video creation, and brand template generation
   - <img src="https://img.shields.io/badge/Status-Live-blue?style=flat-square" />
   - <img src="https://img.shields.io/badge/Features-AI%20Chat%2C%20Content%20Generation%2C%20Image%20Creation%2C%20Video%20Generation%2C%20Brand%20Templates-blue?style=flat-square" />
   - <img src="https://img.shields.io/badge/Technologies-AI%2C%20ML%2C%20React%2C%20OpenAI%2C%20Computer%20Vision-blue?style=flat-square" />
+
+- [QualiFy AI](https://qualify-ai.vercel.app/) - AI-powered Lead Qualification & CRM platform with intelligent scoring, campaign workflows, and enterprise integrations
+  - <img src="https://img.shields.io/badge/Status-Live-blue?style=flat-square" />
+  - <img src="https://img.shields.io/badge/Core-Lead%20Management%2C%20AI%20Lead%20Scoring%2C%20Email%20Campaigns-blue?style=flat-square" />
+  - <img src="https://img.shields.io/badge/Integrations-Salesforce%2C%20Stripe-blue?style=flat-square" />
+  - <img src="https://img.shields.io/badge/Stack-Next.js%2016%2C%20PostgreSQL%2C%20Drizzle%2C%20Clerk%2C%20Tailwind%2C%20Shadcn-blue?style=flat-square" />
 
 - [AI-CFO-Assistant](https://ai-cfo-assistant.vercel.app/) - RAG-powered AI assistant for Chief Executive Officers with document upload and intelligent query processing
   - <img src="https://img.shields.io/badge/Status-Live-blue?style=flat-square" />

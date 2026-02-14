@@ -104,11 +104,10 @@ These are real-world, production-grade systems that represent my strongest work 
         <img src="https://img.shields.io/badge/Users-1292-blue?style=flat-square" />
       </td>
       <td align="center">
-  <strong>Flagship Platform</strong><br/>
-  <small>QualiFy AI - Lead Qualification & CRM</small><br/>
-  <img src="https://img.shields.io/badge/Status-Live-blue?style=flat-square" />
+        <strong>Flagship Platform</strong><br/>
+        <small>QualiFy AI - Lead Qualification & CRM</small><br/>
+        <img src="https://img.shields.io/badge/Status-Live-blue?style=flat-square" />
       </td>
-
     </tr>
     <tr>
       <td align="center">
@@ -124,6 +123,7 @@ These are real-world, production-grade systems that represent my strongest work 
     </tr>
   </table>
 </div>
+
 
 <!-- Professional Summary -->
 <div align="center">

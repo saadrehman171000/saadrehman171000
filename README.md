@@ -348,7 +348,9 @@ These are real-world, production-grade systems that represent my strongest work 
   - <img src="https://img.shields.io/badge/Features-Trend%20Analysis%2C%20Style%20Recommendations-blue?style=flat-square" />
 
 ### Web Applications
-- [FiberFlow](https://fiberflow.vercel.app/) - E-commerce platform with YOLOv8-powered fabric defect detection using computer vision
+- QualiFy AI – AI-powered Lead Qualification and CRM system with advanced scoring logic, campaign workflows, Salesforce integration, Stripe billing, and scalable full stack architecture
+   `https://qualify-ai.vercel.app/`
+  
 - [Converily](https://converily.vercel.app/) - All-in-one platform integrating Canva, Shopify, and other tools at 20% of the original cost
 
 - [GoldenDoor Funds](https://www.goldendoorfund.org/) - Financial services platform with secure transactions

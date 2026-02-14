@@ -353,9 +353,11 @@ These are real-world, production-grade systems that represent my strongest work 
   - <img src="https://img.shields.io/badge/Features-Document%20Upload%2C%20RAG%20Processing%2C%20AI%20Queries%2C%20Executive%20Support-blue?style=flat-square" />
   - <img src="https://img.shields.io/badge/Technologies-Next.js%2C%20RAG%2C%20OpenAI%2C%20Document%20Processing%2C%20AI%20Integration-blue?style=flat-square" />
 
-- [AI Fashion Platform](https://ai-fashion-platform.vercel.app/) - AI-driven fashion technology and trend analysis
+- [StikPop](https://www.stikpop.com/) - AI-powered image to sticker platform using LLM and vision models to transform images into stylized stickers (vintage, anime, cartoon and more)
   - <img src="https://img.shields.io/badge/Status-Live-blue?style=flat-square" />
-  - <img src="https://img.shields.io/badge/Features-Trend%20Analysis%2C%20Style%20Recommendations-blue?style=flat-square" />
+  - <img src="https://img.shields.io/badge/Core-Image%20to%20Sticker%20Generation%2C%20Style%20Transfer-blue?style=flat-square" />
+  - <img src="https://img.shields.io/badge/Technologies-LLM%2C%20Vision%20Models%2C%20Next.js%2C%20AI%20APIs-blue?style=flat-square" />
+
 
 ### Web Applications
 - QualiFy AI – AI-powered Lead Qualification and CRM system with advanced scoring logic, campaign workflows, Salesforce integration, Stripe billing, and scalable full stack architecture

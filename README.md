@@ -272,12 +272,25 @@ These are real-world, production-grade systems that represent my strongest work 
 
 ### Programming Languages
 <div align="center">
-  <img src="https://img.shields.io/badge/JavaScript/TypeScript-91%25-blue?style=flat-square" alt="JavaScript/TypeScript" />
-  <img src="https://img.shields.io/badge/Python-92%25-blue?style=flat-square" alt="Python" />
-  <img src="https://img.shields.io/badge/Java-93%25-blue?style=flat-square" alt="Java" />
-  <img src="https://img.shields.io/badge/Go-94%25-blue?style=flat-square" alt="Go" />
-  <img src="https://img.shields.io/badge/Rust-95%25-blue?style=flat-square" alt="Rust" />
+
+<img src="https://img.shields.io/badge/JavaScript-Expert-blue?style=flat-square&logo=javascript&logoColor=white" />
+<img src="https://img.shields.io/badge/TypeScript-Expert-blue?style=flat-square&logo=typescript&logoColor=white" />
+<img src="https://img.shields.io/badge/Python-Advanced-blue?style=flat-square&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/Java-Advanced-blue?style=flat-square&logo=openjdk&logoColor=white" />
+<img src="https://img.shields.io/badge/Go-Strong-blue?style=flat-square&logo=go&logoColor=white" />
+<img src="https://img.shields.io/badge/Rust-Strong-blue?style=flat-square&logo=rust&logoColor=white" />
+<img src="https://img.shields.io/badge/PHP-Working%20Knowledge-blue?style=flat-square&logo=php&logoColor=white" />
+<img src="https://img.shields.io/badge/C-Working%20Knowledge-blue?style=flat-square&logo=c&logoColor=white" />
+<img src="https://img.shields.io/badge/C%2B%2B-Working%20Knowledge-blue?style=flat-square&logo=c%2B%2B&logoColor=white" />
+<img src="https://img.shields.io/badge/Bash-Advanced-blue?style=flat-square&logo=gnubash&logoColor=white" />
+<img src="https://img.shields.io/badge/SQL-Advanced-blue?style=flat-square&logo=postgresql&logoColor=white" />
+<img src="https://img.shields.io/badge/GraphQL-Strong-blue?style=flat-square&logo=graphql&logoColor=white" />
+<img src="https://img.shields.io/badge/Solidity-Basic-blue?style=flat-square&logo=ethereum&logoColor=white" />
+<img src="https://img.shields.io/badge/R-Working%20Knowledge-blue?style=flat-square&logo=r&logoColor=white" />
+<img src="https://img.shields.io/badge/MATLAB-Working%20Knowledge-blue?style=flat-square" />
+
 </div>
+
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=saadrehman171000&layout=compact&hide_border=true" />

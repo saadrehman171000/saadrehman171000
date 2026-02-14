@@ -280,8 +280,9 @@ These are real-world, production-grade systems that represent my strongest work 
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=saadrehman171000&layout=compact&hide_border=true&langs_count=8" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=saadrehman171000&layout=compact&hide_border=true" />
 </div>
+
 
 
 ### Advanced Computer Science Skills

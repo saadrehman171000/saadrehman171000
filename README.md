@@ -137,7 +137,6 @@ These are real-world, production-grade systems that represent my strongest work 
   </div>
 </div>
 
-- **Currently Working On:** **FiberFlow** - E-commerce platform with YOLOv8-powered fabric defect detection using computer vision
 - **Learning:** **Advanced RAG (Retrieval-Augmented Generation)** and Large Language Model integration for enterprise solutions
 - **Portfolio:** All my projects available at [https://github.com/saadrehman171000](https://github.com/saadrehman171000)
 - **Let's Discuss:** **React, Node.js, Next.js, AI/ML, Computer Vision, and cutting-edge technologies**

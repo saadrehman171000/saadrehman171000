@@ -1,6 +1,6 @@
 <div align="center">
   <h1>Hi, I'm Saad Rehman</h1>
-  <h3>Full Stack Developer & Data Scientist</h3>
+  <h3>AI Engineer & Full Stack Developer building production SaaS platforms with LLMs, automation, and scalable architectures</h3>
   <p><em>Passionate about AI, Innovation & Building Scalable Solutions</em></p>
   
   <!-- Dynamic Status Indicator -->

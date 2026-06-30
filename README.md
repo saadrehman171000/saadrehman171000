@@ -1,14 +1,23 @@
 <div align="center">
-  <h1>Hi, I'm Saad Rehman</h1>
-  <h3>AI Engineer & Full Stack Developer building production SaaS platforms with LLMs, automation, and scalable architectures</h3>
-  <p><em>Passionate about AI, Innovation & Building Scalable Solutions</em></p>
-  
-  <!-- Dynamic Status Indicator -->
-  <div align="center">
-    <img src="https://img.shields.io/badge/Status-Available%20for%20Opportunities-blue?style=flat-square" alt="Status" />
-    <img src="https://img.shields.io/badge/Location-Remote%20Friendly-blue?style=flat-square" alt="Location" />
-    <img src="https://img.shields.io/badge/Timezone-UTC%2B5-blue?style=flat-square" alt="Timezone" />
-  </div>
+
+# Hi, I'm Saad Rehman 👋
+
+### Founder & CEO of <a href="https://www.zavriotech.com" target="_blank">Zavriotech</a>
+
+#### AI Engineer • Full Stack Developer • Building Production AI, SaaS & Enterprise Software
+
+<p>
+Building intelligent software powered by AI, LLMs, automation, computer vision, and scalable cloud architectures.
+</p>
+
+<p>
+  <a href="https://www.zavriotech.com">
+    <img src="https://img.shields.io/badge/Company-Zavriotech-0FA9A6?style=for-the-badge" />
+  </a>
+  <img src="https://img.shields.io/badge/Role-Founder%20%26%20CEO-111827?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Location-Pakistan-0EA5E9?style=for-the-badge" />
+</p>
+
 </div>
 
 ---

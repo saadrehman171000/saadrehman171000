@@ -15,7 +15,6 @@ Building intelligent software powered by AI, LLMs, automation, computer vision, 
     <img src="https://img.shields.io/badge/Company-Zavriotech-0FA9A6?style=for-the-badge" />
   </a>
   <img src="https://img.shields.io/badge/Role-Founder%20%26%20CEO-111827?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Location-Pakistan-0EA5E9?style=for-the-badge" />
 </p>
 
 </div>

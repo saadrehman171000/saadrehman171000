@@ -408,7 +408,7 @@ These are real-world, production-grade systems that represent my strongest work 
 
 <div align="center">
   <img
-    src="https://streak-stats.demolab.com?user=saadrehman171000&theme=dark&hide_border=true&background=0D1117&stroke=007ACC&ring=007ACC&fire=FF6B35&currStreakNum=007ACC&currStreakLabel=007ACC&sideNums=007ACC&sideLabels=007ACC&dates=007ACC"
+    src="./profile/streak.svg"
     alt="GitHub Streak Stats"
   />
 </div>
@@ -443,7 +443,10 @@ These are real-world, production-grade systems that represent my strongest work 
 
 <!-- Dynamic GitHub Contribution Stats -->
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=saadrehman171000&show_icons=true&theme=default&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" />
+  <img
+    src="./profile/stats.svg"
+    alt="GitHub Stats"
+  />
 </div>
 
 ---

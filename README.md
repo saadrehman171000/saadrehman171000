@@ -407,7 +407,10 @@ These are real-world, production-grade systems that represent my strongest work 
 ## GitHub Streak Stats
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=saadrehman171000&theme=dark&hide_border=true&background=0D1117&stroke=007ACC&ring=007ACC&fire=FF6B35&currStreakNum=007ACC&currStreakLabel=007ACC&sideNums=007ACC&sideLabels=007ACC&dates=007ACC" alt="GitHub Streak Stats" />
+  <img
+    src="https://streak-stats.demolab.com?user=saadrehman171000&theme=dark&hide_border=true&background=0D1117&stroke=007ACC&ring=007ACC&fire=FF6B35&currStreakNum=007ACC&currStreakLabel=007ACC&sideNums=007ACC&sideLabels=007ACC&dates=007ACC"
+    alt="GitHub Streak Stats"
+  />
 </div>
 
 ---
